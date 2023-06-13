@@ -1,1 +1,1 @@
-script that creates an alias
+0-alias
