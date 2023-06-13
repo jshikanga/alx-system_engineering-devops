@@ -1,1 +1,1 @@
-Betty in my first directory
+We are symbols, and inhabit symbols
