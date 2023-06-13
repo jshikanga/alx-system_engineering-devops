@@ -1,1 +1,1 @@
-another readme
+Betty in my first directory
